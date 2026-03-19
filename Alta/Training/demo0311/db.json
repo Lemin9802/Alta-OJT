@@ -1,0 +1,100 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "code": "KIO_01",
+      "name": "Kiosk 01",
+      "ip": "192.168.1.10",
+      "activityStatus": "Hoạt động",
+      "connectionStatus": "Mất kết nối",
+      "services": [
+        "Khám tim mạch",
+        "Khám răng hàm mặt"
+      ]
+    },
+    {
+      "id": 2,
+      "code": "KIO_02",
+      "name": "Kiosk 02",
+      "ip": "192.168.1.11",
+      "activityStatus": "Hoạt động",
+      "connectionStatus": "Kết nối",
+      "services": [
+        "Khám tai mũi họng",
+        "Khám da liễu"
+      ]
+    },
+    {
+      "id": 3,
+      "code": "KIO_03",
+      "name": "Kiosk 03",
+      "ip": "192.168.1.12",
+      "activityStatus": "Ngưng hoạt động",
+      "connectionStatus": "Mất kết nối",
+      "services": [
+        "Khám mắt",
+        "Khám tổng quát"
+      ]
+    },
+    {
+      "id": 4,
+      "code": "KIO_04",
+      "name": "Kiosk 04",
+      "ip": "192.168.1.13",
+      "activityStatus": "Ngưng hoạt động",
+      "connectionStatus": "Kết nối",
+      "services": [
+        "Khám nhi",
+        "Khám sản phụ khoa"
+      ]
+    },
+    {
+      "id": 5,
+      "code": "KIO_05",
+      "name": "Kiosk 05",
+      "ip": "192.168.1.14",
+      "activityStatus": "Ngưng hoạt động",
+      "connectionStatus": "Kết nối",
+      "services": [
+        "Khám tim mạch",
+        "Khám răng hàm mặt"
+      ]
+    },
+    {
+      "id": 6,
+      "code": "KIO_06",
+      "name": "Kiosk 06",
+      "ip": "192.168.1.15",
+      "activityStatus": "Ngưng hoạt động",
+      "connectionStatus": "Mất kết nối",
+      "services": [
+        "Khám tai mũi họng",
+        "Khám da liễu"
+      ]
+    },
+    {
+      "id": 7,
+      "code": "KIO_07",
+      "name": "Kiosk 07",
+      "ip": "192.168.1.16",
+      "activityStatus": "Hoạt động",
+      "connectionStatus": "Kết nối",
+      "services": [
+        "Khám mắt",
+        "Khám tổng quát"
+      ]
+    },
+    {
+      "id": 8,
+      "code": "KIO_08",
+      "name": "Kiosk 08",
+      "ip": "192.168.1.17",
+      "activityStatus": "Hoạt động",
+      "connectionStatus": "Mất kết nối",
+      "services": [
+        "Khám nhi",
+        "Khám sản phụ khoa"
+      ]
+    }
+  ]
+}

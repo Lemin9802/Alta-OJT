@@ -1,0 +1,27 @@
+.item {
+    width: 14%;
+    aspect-ratio: 1/1;
+    border: 5px solid blue;
+    display: flex;
+    height: 25vh;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 2px 2px 2px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-around;
+    background-color: blue;
+
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 30vh;
+    border-color: beige;
+}

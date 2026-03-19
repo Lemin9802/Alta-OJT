@@ -1,0 +1,55 @@
+/* Styles for purchase table component */
+.purchase-table {
+	background: #fff;
+	padding: 12px;
+}
+
+.purchase-table .ant-table {
+	border: none;
+}
+
+.order-link {
+	color: #1a5fb4;
+	cursor: pointer;
+}
+
+.supplier-name {
+	font-size: 13px;
+	color: #333;
+	text-transform: uppercase;
+}
+
+.popover-carousel {
+	width: 360px;
+}
+
+.carousel-slide {
+	padding: 12px;
+	min-height: 80px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.carousel-slide .material-name {
+	font-weight: 600;
+	margin-bottom: 8px;
+}
+
+.carousel-slide .material-meta {
+	font-size: 13px;
+	color: #666;
+}
+
+.table-loading {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 40px 0;
+}
+
+/* Small tweaks to header look */
+.ant-table-thead > tr > th {
+	background: #fafafa;
+	font-weight: 600;
+}
